@@ -115,6 +115,3 @@ The bot includes realistic mock data for all London areas. Perfect for developme
 - Bot commands: `hotel_monitor_bot.py`  
 - Database schema: `database.py`
 
-## License
-
-MIT License
