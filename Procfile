@@ -1,2 +1,1 @@
-worker: python Friday_bot.py $PORT
-heroku ps:scale worker=1
+worker: python hotel_monitor_bot.py

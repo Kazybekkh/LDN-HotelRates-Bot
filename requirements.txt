@@ -1,19 +1,20 @@
-appdirs==1.4.4
-certifi==2024.8.30
-Cython==3.0.2
-Django==4.2.6
-docutils==0.20.1
-packaging==23.1
-pipenv==2024.3.1
-psutil==5.9.7
-pyyaml==6.0.1
-Pygments==2.16.1
-pyparsing==3.1.2
-pyTelegramBotAPI==4.12.0
-python-telegram-bot==20.5
-requests==2.31.0
-six==1.16.0
-virtualenv==20.27.1
-virtualenv-clone==0.5.7
+# Core Teleg# Core Bot
 Telethon==1.37.0
-vertexai==1.71.1
+
+# AI Integration
+anthropic==0.40.0
+
+# HTTP & Async
+aiohttp==3.11.10
+
+# Hotel API
+amadeus==8.1.0
+
+# Environment & Utils
+python-dotenv==1.0.1
+Pillow==11.0.0
+requests==2.32.3ing (optional, for future features)
+Pillow==11.0.0
+
+# Additional utilities
+requests==2.32.3
